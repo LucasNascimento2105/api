@@ -1,0 +1,15 @@
+{
+  "Personagens": [
+    {"id": 1, "nome": "Ted Mosby", "img":"https://static.wikia.nocookie.net/himym/images/1/14/WB0rq.jpg/revision/latest/scale-to-width-down/210?cb=20130113174836", "descrição": "Em 2030, Ted sentou-se para contar aos filhos a história de “How I Met Your Mother”. Começando em 2005, a jornada sinuosa de Ted o levou por muitos relacionamentos fracassados, inclusive sendo deixado no altar. Mas o arquiteto que virou professor não desiste de sua busca pelo Único. Ela está por aí, e cada episódio da vida de Ted o deixa um passo mais perto de conhecê-la."},
+    {"id": 2, "nome": "Marshal Eriksen", "img":"",  "descrição":},
+    {"id": 3, "nome": "", "img":"",  "descrição":""},
+    {"id": 4, "nome": "", "img":"",  "descrição":""},
+    {"id": 5, "nome": "", "img":"",  "descrição":""},
+    {"id": 6, "nome": "", "img":"",  "descrição":""},
+    {"id": 7, "nome": "", "img":"",  "descrição":""},
+    {"id": 8, "nome": "", "img":"",  "descrição":""},
+    {"id": 9, "nome": "", "img":"",  "descrição":""},
+    {"id": 10, "nome": "", "img":"",  "descrição":""},   
+    {"id": 11, "nome": "", "img":"",  "descrição":""}
+  ]
+}
